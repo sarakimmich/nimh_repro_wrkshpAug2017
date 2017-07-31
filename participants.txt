@@ -40,4 +40,4 @@
  'xue****hou@nih.gov',
  'yan****ang@nih.gov',
  'zol****ckb@mail.nih.gov',
- 'sara.kimmich@nih.gov, Sara Kimmich, kimmichsr, skimmich
+ 'sar****mich@nih.gov, Sara Kimmich, kimmichsr, skimmich
